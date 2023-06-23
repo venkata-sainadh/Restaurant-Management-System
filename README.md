@@ -12,9 +12,8 @@ This project is a basic restaurant management system that provides a user interf
 * 
 # File Structure
 
-* index.html: The main HTML file that serves as the entry point for the restaurant management system.
-*style.css: The CSS file that contains the styles and layout for the user interface.
-*script.js: The JavaScript file that handles user interactions and performs actions such as adding, editing, and deleting menu items, managing reservations, and generating reports.
+- `index.html`: The main HTML file that serves as the entry point for the restaurant management system.
+- `style.css` : The CSS file that contains the styles and layout for the user interface.
 
 # Usage
 
